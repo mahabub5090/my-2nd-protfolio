@@ -1,0 +1,166 @@
+body {
+    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#headspan {
+    color: orange;
+}
+
+.az {
+    color: black;
+    font-weight: bolder;
+}
+
+.a {
+    display: flex;
+    margin-bottom: 100px;
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: left;
+    width: 100%;
+}
+
+.a img {
+    width: 50%;
+    position: right;
+}
+
+.text {
+    padding-top: 100px;
+    padding-left: 20px;
+
+}
+
+.link {
+    text-decoration: none;
+    border: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    background-image: linear-gradient(orange, red);
+
+}
+
+.b {
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(Frame\ 58.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: left;
+    width: 100%;
+}
+
+.b img {
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.c {
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.sub {
+    display: flex;
+
+    border-radius: 30px;
+    border: 10px solid white;
+
+    background-color: rgb(251, 247, 240);
+
+    text-align: center;
+    width: 80%;
+    ;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.lft {
+    margin-left: 7%;
+    text-align: center;
+    padding: 20px;
+    margin-right: 5%;
+}
+
+.mdle {
+    text-align: center;
+    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+.rht {
+    margin-left: 5%;
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+#hard {
+    display: flex;
+
+}
+
+
+.d img {
+    width: 50%;
+}
+
+.e img {
+    width: 50%;
+}
+
+.d {
+    text-align: justify;
+    padding: 20px;
+    border: 10px solid rgb(194, 175, 175);
+    margin-left: 4%;
+    margin-right: 2%;
+    border-radius: 20px;
+}
+
+.e {
+    text-align: justify;
+    padding: 20px;
+    border: 10px solid rgb(194, 175, 175);
+    margin-left: 2%;
+    margin-right: 4%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: black;
+}
+
+
+.last {
+    text-align: center;
+}
+
+.eat {
+    color: orange;
+}
+
+.fresh {
+    color: white;
+    opacity: 50%;
+}
+
+.foot {
+    text-align: center;
+    color: aliceblue;
+}
